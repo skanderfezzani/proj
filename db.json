@@ -1,0 +1,128 @@
+{
+      "produits": [
+    {
+      "id": 1,
+      "image": "https://www.motorlegend.com/images-voiture/med/bmw-serie-4-g22-coupe-m440i-xdrive-374-ch-130492.jpg",
+      "quantite": 1,
+      "modele": "BMW M440i Coupe",
+      "puissance": "374 ch (275 kW)",
+      "boite": "Boite de vitesses automatique Sport avec palettes au volant",
+      "prix": 68400,
+      "nprix": 52000,
+      "gamme": "Essence"
+    },
+    {
+      "id": 20,
+      "image": "https://i.f1g.fr/media/figarofr/704x/2014/01/13/PHO8bebc984-7c3d-11e3-89b5-127f77cabfb0-300x200.jpg",
+      "quantite": 1,
+      "modele": "BMW 518d",
+      "puissance": "150 ch (110 kW)",
+      "boite": "Boîte de vitesses automatique",
+      "prix": 49000,
+      "nprix": 39000,
+      "gamme": "Essence"
+    },
+    {
+      "id": 3,
+      "image": "https://www.largus.fr/images/photos/rsi/_G_JPG/Voitures/BMW/Serie_6_Gran_Turismo/I/Ph1/Berline_5_portes/troisquartarriere4.jpg",
+      "quantite": 1,
+      "modele": "BMW 620d",
+      "prix": 65250,
+      "nprix": 41000,
+      "puissance": "190 ch (140 kW)",
+      "boite": "Automatique",
+      "gamme": "Diesel"
+    },
+    {
+      "id": 4,
+      "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2020/10/BMW_Serie_7_2019_74e81.jpg",
+      "quantite": 1,
+      "modele": "BMW 730d",
+      "puissance": "286 ch (210 kW)",
+      "boite": "Automatique",
+      "prix": 100750,
+      "nprix": 50000,
+      "gamme": "Diesel"
+    },
+    {
+      "id": 5,
+      "image": "https://www.larevueautomobile.com/images/fiche-technique/2019/Bmw/Serie-7/Bmw_Serie-7_MD_1.jpg",
+      "quantite": 1,
+      "modele": "BMW 730Ld",
+      "puissance": "286 ch (210 kW)",
+      "boite": "Automatique",
+      "prix": 104899,
+      "nprix": 70000,
+      "gamme": "Electrique",
+      "autonomie": "450 Kilomètres"
+    },
+    {
+      "id": 22,
+      "modele": "BMW i4",
+      "puissance": "208 ch",
+      "boite": "b5",
+      "prix": 55000,
+      "gamme": "Electrique",
+      "autonomie": "600 Kilomètres",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-i4-m50-xdrive-105-662805b1da691.jpg?crop=0.638xw:0.538xh;0.233xw,0.344xh&resize=1200:*",
+      "quantite": 1
+    },
+    {
+      "id": 33,
+      "modele": "BMW 116",
+      "puissance": "208 ch (153 kW)",
+      "boite": "b5",
+      "prix": 60000,
+      "gamme": "Electrique",
+      "autonomie": "500 Kilomètres",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/…",
+      "quantite": 1
+    },
+    {
+      "id": 44,
+      "modele": "BMW M440i",
+      "puissance": "292 ch (215 kW)",
+      "boite": "b5",
+      "prix": 55000,
+      "nprix": 40000,
+      "gamme": "Electrique",
+      "autonomie": "550 Kilomètres",
+      "image": "https://i.gaw.to/content/photos/44/78/447831-essai-eclair-de-la-bmw-serie-4-m440i-xdrive-2021-beau-melange.jpeg",
+      "quantite": 1
+    },
+    {
+      "id": 6,
+      "modele": "BMW_H_i5",
+      "puissance": "292 ch (215 kW)",
+      "boite": "b5",
+      "prix": 55000,
+      "gamme": "Hybride",
+      "autonomie": "300 Kilomètres",
+      "image": "https://c.pxhere.com/photos/44/f0/bmw_z3_roadster_m_package_convertible-645449.jpg!d",
+      "quantite": 1
+    },
+    {
+      "id": 7,
+      "modele": "BMW_H_1",
+      "puissance": "204 ch (150 kW)",
+      "boite": "292 ch (215 kW)",
+      "prix": 35000,
+      "gamme": "Hybride",
+      "autonomie": "250 Kilomètres",
+      "image": "https://www.largus.fr/images/photos/rsi/_G_JPG/Voitures/BMW/Serie_6_Gran_Turismo/I/Ph1/Berline_5_portes/troisquartarriere4.jpg",
+      "quantite": 1
+    },
+    {
+      "id": 8,
+      "modele": "BMW_H_2",
+      "puissance": "204 ch (150 kW)",
+      "boite": "auto",
+      "prix": 60000,
+      "nprix": 49000,
+      "gamme": "Hybride",
+      "autonomie": "200 Kilomètres",
+      "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2020/10/BMW_Serie_7_2019_74e81.jpg",
+      "quantite": 1
+    }
+  ]
+}
